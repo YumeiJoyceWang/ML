@@ -15,8 +15,4 @@ https://www.kaggle.com/datasets/yatishbn/uci-turkiye-student-evaluation-data-set
 Python 3.9
 
 Python modules used include:
-numpy
-pandas
-matplotlib
-sklearn
-time
+numpy, pandas, matplotlib, sklearn, time

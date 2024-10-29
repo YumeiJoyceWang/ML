@@ -2,12 +2,12 @@
 
 Two cluster algorithms and four dimentionality reduction algorithms were applied to the same dataset to compare model performance:
 
--k-means clustering
--Expectation Maximization
--PCA
--ICA
--Randomized Projections
--Random Forest
+- k-means clustering
+- Expectation Maximization
+- PCA
+- ICA
+- Randomized Projections
+- Random Forest
 
 
 ### Datasets used
@@ -21,8 +21,4 @@ https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_c
 Python 3.9
 
 Python modules used include:
-numpy
-pandas
-matplotlib
-sklearn
-time
+numpy, pandas, matplotlib, sklearn, time
